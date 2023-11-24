@@ -1,6 +1,6 @@
 /*
 Write a function createHelloWorld. It should return a new function that always returns "Hello World".
-Example 1:
+Example 1: 
 Input: args = []
 Output: "Hello World"
 Explanation:
